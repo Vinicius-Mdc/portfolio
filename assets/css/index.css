@@ -585,4 +585,8 @@ footer {
     .two-input-row input {
         margin: 18px 0;
     }
+    
+    .projects-grid{
+        padding: 0;
+    }
 }
